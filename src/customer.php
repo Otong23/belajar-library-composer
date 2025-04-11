@@ -1,5 +1,5 @@
  <?php 
-namespace Composerr\belajar;
+namespace Composer\belajar;
 
 class Custoner{
 
