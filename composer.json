@@ -1,5 +1,5 @@
 {
-    "name": "otongsurotong/coba-php-composer",
+    "name": "otongsurotong/coba-library-composer",
     "description": "Library belajar Composer",
     "type": "library",
     "require": {
