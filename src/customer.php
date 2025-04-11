@@ -1,7 +1,11 @@
+
  <?php 
+
+<?php 
+
 namespace Composer\belajar;
 
-class Custoner{
+class Customer{
 
 	public function __construct(private string $name)
 	{
