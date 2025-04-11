@@ -1,6 +1,3 @@
-
- <?php 
-
 <?php 
 
 namespace Composer\belajar;
